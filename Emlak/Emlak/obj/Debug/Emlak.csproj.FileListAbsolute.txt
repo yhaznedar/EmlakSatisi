@@ -1,0 +1,22 @@
+C:\Users\Samsung\Desktop\Emlak\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\Samsung\Desktop\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\Samsung\Desktop\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.Form1.resources
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.exe
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.Form2.resources
+C:\Users\Samsung\Desktop\Emlak\Emlak\obj\Debug\Emlak.Form3.resources
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.exe
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.Form1.resources
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.Form2.resources
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.Form3.resources
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\Samsung\Desktop\PC\SAÜ\3.SINIF\Dönem 1\VTYS\ÖDEVLER\Projemiz - C# Form Uygulaması\Emlak\Emlak\obj\Debug\Emlak.csproj.GenerateResource.Cache
